@@ -1,0 +1,32 @@
+{
+  "author": "Dan Brown",
+  "authors": [],
+  "description": "A wonky clock",
+  "displayname": "",
+  "extends": "",
+  "extensible": 0,
+  "max_version_max": "none",
+  "max_version_min": "7.2.2",
+  "name": "wonkyclock",
+  "os": {
+    "macintosh": {
+      "platform": ["ia32", "x64"],
+      "min_version": "10.9.x"
+    },
+    "windows": {
+      "platform": ["ia32", "x64"],
+      "min_version": "none"
+    }
+  },
+  "package_extra": {
+    "reverse_domain": "net.stompydan",
+    "copyright": "Copyright (c) 2018 Dan Brown dan@stompydan.net"
+  },
+  "tags": [],
+  "version": "1.0.0-beta.1",
+  "website": "https://stompydan.net/wonkyclock",
+  "filelist": {
+    "patchers": ["wonkyclock.maxpat"],
+    "help": ["wonkyclock.maxhelp"]
+  }
+}
