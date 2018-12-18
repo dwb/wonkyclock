@@ -11,3 +11,7 @@ git clone https://github.com/dwb/wonkyclock.git ~/Documents/Max\ 8/Packages/wonk
 ```
 
 or download a ZIP file directly from GitHub here.
+
+## Inspiration
+
+Originally [this great video by David Bruce](https://www.youtube.com/watch?v=jPcXABJVjI8), which led me on to the [”General Theory Of Rhythm”](http://general-theory-of-rhythm.org) – cor!
